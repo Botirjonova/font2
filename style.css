@@ -1,0 +1,62 @@
+img{
+   margin: auto;
+}
+
+h1{
+    text-align: center;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 80px;
+    font-weight: 800;
+    padding-top: 80px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.card{
+width: 393px;
+height: 396px;
+text-align: center;
+}
+
+
+.cool{
+    width: 393px;
+height: 396px;
+text-align: center;
+}
+
+
+.can{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+.true{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+
+.false{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+
+.you{
+    width: 393px;
+    height: 396px;
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 100px;
+
+}
